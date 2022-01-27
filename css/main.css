@@ -1,0 +1,9 @@
+div{
+    display: flex;
+    justify-content: center;
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: auto;
+    margin: 20px;
+}
