@@ -1,7 +1,7 @@
 div{
     display: flex;
     justify-content: center;
-    color:brown;
+    color:rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
     width: 100%;
     height: auto;
